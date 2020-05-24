@@ -1,0 +1,17 @@
+{
+  "name": "authenticationbscrypt",
+  "version": "1.0.0",
+  "description": "Authentication",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
